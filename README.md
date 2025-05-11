@@ -34,3 +34,12 @@ We thank🙇‍ the developers of the following softwares (platforms), and witho
 
 
 ## Citation
+
+```
+@article{liu2025towards,
+  title={Towards Artificial Intelligence Research Assistant for Expert-Involved Learning},
+  author={Liu, Tianyu and Han, Simeng and Luo, Xiao and Wang, Hanchen and Lu, Pan and Zhu, Biqing and Wang, Yuge and Li, Keyi and Chen, Jiapeng and Qu, Rihao and others},
+  journal={arXiv preprint arXiv:2505.04638},
+  year={2025}
+}
+```
